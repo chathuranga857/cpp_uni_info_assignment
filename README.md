@@ -1,7 +1,7 @@
 # C++ Assignment - Univeristy Infomation
-This is a C++ project (assignment) as a project under Programming 2 course with a high level of modularity.
+This is a C++ project completed as as an assignement under Programming 2 course with a high level of modularity.
 
-"cli", "utils", and "course" modules were provided by the course personnel (responsible teacher: Maarit Harsu), howerver, those were slightly changed by me as per the requirements. Teachers instructions were taken before sharing the files here.
+"cli", "utils", and "course" modules were provided by the course personnel (responsible teacher: Maarit Harsu), howerver, those were slightly updated by me as per the requirements. Teachers instructions were taken before sharing the files here.
 
 Major parts of the "account", "university" modules were developed by myself in order to implement 6 commands out of 15 of the program.
 
